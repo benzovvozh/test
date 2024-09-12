@@ -40,5 +40,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-#.class
-*.class
+
+one.class
+two.class
+hello.class
